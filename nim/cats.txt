@@ -1,0 +1,1 @@
+~/Documents/spartancurse/nim/file.txt
